@@ -1,0 +1,206 @@
+digraph arbre {
+graph [ splines=true]
+  node [shape=circle,height=.1]
+  
+
+  n0x558c8ee29490 [label="d"]
+  n0x558c8ee29490:s -> n0x558c8ee294c0:c  
+  n0x558c8ee294c0 [label="a"]
+  n0x558c8ee294c0:s -> n0x558c8ee294f0:c  
+  n0x558c8ee294f0 [label="n"]
+  n0x558c8ee294f0:s -> n0x558c8ee29520:c  
+  n0x558c8ee29520 [label="s"]
+  n0x558c8ee29520:s -> n0x558c8ee29550:c  
+  n0x558c8ee29550 [label="0"]
+  n0x558c8ee294c0:e -> n0x558c8ee29580:c [color="#2257ab"]
+  n0x558c8ee29580 [label="u"]
+  n0x558c8ee29580:w -> n0x558c8ee29b50:c [color="#ab2222"]
+  n0x558c8ee29b50 [label="e"]
+  n0x558c8ee29b50:s -> n0x558c8ee29b80:c  
+  n0x558c8ee29b80 [label="0"]
+  n0x558c8ee29b80:e -> n0x558c8ee2a600:c [color="#2257ab"]
+  n0x558c8ee2a600 [label="r"]
+  n0x558c8ee2a600:s -> n0x558c8ee2a630:c  
+  n0x558c8ee2a630 [label="n"]
+  n0x558c8ee2a630:s -> n0x558c8ee2a660:c  
+  n0x558c8ee2a660 [label="i"]
+  n0x558c8ee2a660:s -> n0x558c8ee2a690:c  
+  n0x558c8ee2a690 [label="e"]
+  n0x558c8ee2a690:s -> n0x558c8ee2a6c0:c  
+  n0x558c8ee2a6c0 [label="r"]
+  n0x558c8ee2a6c0:s -> n0x558c8ee2a6f0:c  
+  n0x558c8ee2a6f0 [label="e"]
+  n0x558c8ee2a6f0:s -> n0x558c8ee2a720:c  
+  n0x558c8ee2a720 [label="0"]
+  n0x558c8ee29b50:e -> n0x558c8ee2a030:c [color="#2257ab"]
+  n0x558c8ee2a030 [label="i"]
+  n0x558c8ee2a030:s -> n0x558c8ee2a060:c  
+  n0x558c8ee2a060 [label="t"]
+  n0x558c8ee2a060:s -> n0x558c8ee2a090:c  
+  n0x558c8ee2a090 [label="0"]
+  n0x558c8ee29580:s -> n0x558c8ee295b0:c  
+  n0x558c8ee295b0 [label="0"]
+  n0x558c8ee29490:e -> n0x558c8ee295e0:c [color="#2257ab"]
+  n0x558c8ee295e0 [label="f"]
+  n0x558c8ee295e0:w -> n0x558c8ee29f10:c [color="#ab2222"]
+  n0x558c8ee29f10 [label="e"]
+  n0x558c8ee29f10:s -> n0x558c8ee29f40:c  
+  n0x558c8ee29f40 [label="l"]
+  n0x558c8ee29f40:s -> n0x558c8ee29f70:c  
+  n0x558c8ee29f70 [label="l"]
+  n0x558c8ee29f70:s -> n0x558c8ee29fa0:c  
+  n0x558c8ee29fa0 [label="e"]
+  n0x558c8ee29fa0:s -> n0x558c8ee29fd0:c  
+  n0x558c8ee29fd0 [label="0"]
+  n0x558c8ee29f40:e -> n0x558c8ee2a2a0:c [color="#2257ab"]
+  n0x558c8ee2a2a0 [label="s"]
+  n0x558c8ee2a2a0:s -> n0x558c8ee2a2d0:c  
+  n0x558c8ee2a2d0 [label="t"]
+  n0x558c8ee2a2d0:s -> n0x558c8ee2a300:c  
+  n0x558c8ee2a300 [label="0"]
+  n0x558c8ee2a2a0:e -> n0x558c8ee2a3c0:c [color="#2257ab"]
+  n0x558c8ee2a3c0 [label="t"]
+  n0x558c8ee2a3c0:s -> n0x558c8ee2a3f0:c  
+  n0x558c8ee2a3f0 [label="0"]
+  n0x558c8ee2a3f0:e -> n0x558c8ee2a480:c [color="#2257ab"]
+  n0x558c8ee2a480 [label="a"]
+  n0x558c8ee2a480:s -> n0x558c8ee2a4b0:c  
+  n0x558c8ee2a4b0 [label="i"]
+  n0x558c8ee2a4b0:s -> n0x558c8ee2a4e0:c  
+  n0x558c8ee2a4e0 [label="t"]
+  n0x558c8ee2a4e0:s -> n0x558c8ee2a510:c  
+  n0x558c8ee2a510 [label="0"]
+  n0x558c8ee295e0:s -> n0x558c8ee29610:c  
+  n0x558c8ee29610 [label="o"]
+  n0x558c8ee29610:s -> n0x558c8ee29640:c  
+  n0x558c8ee29640 [label="i"]
+  n0x558c8ee29640:s -> n0x558c8ee29670:c  
+  n0x558c8ee29670 [label="0"]
+  n0x558c8ee29670:e -> n0x558c8ee29d00:c [color="#2257ab"]
+  n0x558c8ee29d00 [label="s"]
+  n0x558c8ee29d00:w -> n0x558c8ee29d60:c [color="#ab2222"]
+  n0x558c8ee29d60 [label="e"]
+  n0x558c8ee29d60:s -> n0x558c8ee29d90:c  
+  n0x558c8ee29d90 [label="0"]
+  n0x558c8ee29d00:s -> n0x558c8ee29d30:c  
+  n0x558c8ee29d30 [label="0"]
+  n0x558c8ee29d00:e -> n0x558c8ee2a1b0:c [color="#2257ab"]
+  n0x558c8ee2a1b0 [label="x"]
+  n0x558c8ee2a1b0:s -> n0x558c8ee2a1e0:c  
+  n0x558c8ee2a1e0 [label="0"]
+  n0x558c8ee295e0:e -> n0x558c8ee296a0:c [color="#2257ab"]
+  n0x558c8ee296a0 [label="v"]
+  n0x558c8ee296a0:w -> n0x558c8ee297c0:c [color="#ab2222"]
+  n0x558c8ee297c0 [label="m"]
+  n0x558c8ee297c0:w -> n0x558c8ee29bb0:c [color="#ab2222"]
+  n0x558c8ee29bb0 [label="l"]
+  n0x558c8ee29bb0:w -> n0x558c8ee29e80:c [color="#ab2222"]
+  n0x558c8ee29e80 [label="i"]
+  n0x558c8ee29e80:s -> n0x558c8ee29eb0:c  
+  n0x558c8ee29eb0 [label="l"]
+  n0x558c8ee29eb0:s -> n0x558c8ee29ee0:c  
+  n0x558c8ee29ee0 [label="0"]
+  n0x558c8ee29e80:e -> n0x558c8ee2a330:c [color="#2257ab"]
+  n0x558c8ee2a330 [label="j"]
+  n0x558c8ee2a330:s -> n0x558c8ee2a360:c  
+  n0x558c8ee2a360 [label="e"]
+  n0x558c8ee2a360:s -> n0x558c8ee2a390:c  
+  n0x558c8ee2a390 [label="0"]
+  n0x558c8ee29bb0:s -> n0x558c8ee29be0:c  
+  n0x558c8ee29be0 [label="a"]
+  n0x558c8ee29be0:s -> n0x558c8ee29c10:c  
+  n0x558c8ee29c10 [label="0"]
+  n0x558c8ee297c0:s -> n0x558c8ee297f0:c  
+  n0x558c8ee297f0 [label="a"]
+  n0x558c8ee297f0:s -> n0x558c8ee29820:c  
+  n0x558c8ee29820 [label="r"]
+  n0x558c8ee29820:w -> n0x558c8ee2a000:c [color="#ab2222"]
+  n0x558c8ee2a000 [label="0"]
+  n0x558c8ee29820:s -> n0x558c8ee29850:c  
+  n0x558c8ee29850 [label="c"]
+  n0x558c8ee29850:s -> n0x558c8ee29880:c  
+  n0x558c8ee29880 [label="h"]
+  n0x558c8ee29880:s -> n0x558c8ee298b0:c  
+  n0x558c8ee298b0 [label="a"]
+  n0x558c8ee298b0:s -> n0x558c8ee298e0:c  
+  n0x558c8ee298e0 [label="n"]
+  n0x558c8ee298e0:s -> n0x558c8ee29910:c  
+  n0x558c8ee29910 [label="d"]
+  n0x558c8ee29910:s -> n0x558c8ee29940:c  
+  n0x558c8ee29940 [label="e"]
+  n0x558c8ee29940:s -> n0x558c8ee29970:c  
+  n0x558c8ee29970 [label="0"]
+  n0x558c8ee297c0:e -> n0x558c8ee299a0:c [color="#2257ab"]
+  n0x558c8ee299a0 [label="p"]
+  n0x558c8ee299a0:s -> n0x558c8ee299d0:c  
+  n0x558c8ee299d0 [label="r"]
+  n0x558c8ee299d0:s -> n0x558c8ee29a00:c  
+  n0x558c8ee29a00 [label="e"]
+  n0x558c8ee29a00:s -> n0x558c8ee29a30:c  
+  n0x558c8ee29a30 [label="m"]
+  n0x558c8ee29a30:s -> n0x558c8ee29a60:c  
+  n0x558c8ee29a60 [label="i"]
+  n0x558c8ee29a60:s -> n0x558c8ee29a90:c  
+  n0x558c8ee29a90 [label="e"]
+  n0x558c8ee29a90:s -> n0x558c8ee29ac0:c  
+  n0x558c8ee29ac0 [label="r"]
+  n0x558c8ee29ac0:s -> n0x558c8ee29af0:c  
+  n0x558c8ee29af0 [label="e"]
+  n0x558c8ee29af0:s -> n0x558c8ee29b20:c  
+  n0x558c8ee29b20 [label="0"]
+  n0x558c8ee299a0:e -> n0x558c8ee29c40:c [color="#2257ab"]
+  n0x558c8ee29c40 [label="u"]
+  n0x558c8ee29c40:w -> n0x558c8ee29dc0:c [color="#ab2222"]
+  n0x558c8ee29dc0 [label="q"]
+  n0x558c8ee29dc0:s -> n0x558c8ee29df0:c  
+  n0x558c8ee29df0 [label="u"]
+  n0x558c8ee29df0:s -> n0x558c8ee29e20:c  
+  n0x558c8ee29e20 [label="i"]
+  n0x558c8ee29e20:w -> n0x558c8ee2a420:c [color="#ab2222"]
+  n0x558c8ee2a420 [label="e"]
+  n0x558c8ee2a420:s -> n0x558c8ee2a450:c  
+  n0x558c8ee2a450 [label="0"]
+  n0x558c8ee29e20:s -> n0x558c8ee29e50:c  
+  n0x558c8ee29e50 [label="0"]
+  n0x558c8ee29dc0:e -> n0x558c8ee2a210:c [color="#2257ab"]
+  n0x558c8ee2a210 [label="s"]
+  n0x558c8ee2a210:s -> n0x558c8ee2a240:c  
+  n0x558c8ee2a240 [label="e"]
+  n0x558c8ee2a240:s -> n0x558c8ee2a270:c  
+  n0x558c8ee2a270 [label="0"]
+  n0x558c8ee29c40:s -> n0x558c8ee29c70:c  
+  n0x558c8ee29c70 [label="n"]
+  n0x558c8ee29c70:s -> n0x558c8ee29ca0:c  
+  n0x558c8ee29ca0 [label="e"]
+  n0x558c8ee29ca0:s -> n0x558c8ee29cd0:c  
+  n0x558c8ee29cd0 [label="0"]
+  n0x558c8ee296a0:s -> n0x558c8ee296d0:c  
+  n0x558c8ee296d0 [label="i"]
+  n0x558c8ee296d0:w -> n0x558c8ee2a0c0:c [color="#ab2222"]
+  n0x558c8ee2a0c0 [label="e"]
+  n0x558c8ee2a0c0:s -> n0x558c8ee2a0f0:c  
+  n0x558c8ee2a0f0 [label="n"]
+  n0x558c8ee2a0f0:s -> n0x558c8ee2a120:c  
+  n0x558c8ee2a120 [label="d"]
+  n0x558c8ee2a120:s -> n0x558c8ee2a150:c  
+  n0x558c8ee2a150 [label="s"]
+  n0x558c8ee2a150:w -> n0x558c8ee2a540:c [color="#ab2222"]
+  n0x558c8ee2a540 [label="a"]
+  n0x558c8ee2a540:s -> n0x558c8ee2a570:c  
+  n0x558c8ee2a570 [label="i"]
+  n0x558c8ee2a570:s -> n0x558c8ee2a5a0:c  
+  n0x558c8ee2a5a0 [label="t"]
+  n0x558c8ee2a5a0:s -> n0x558c8ee2a5d0:c  
+  n0x558c8ee2a5d0 [label="0"]
+  n0x558c8ee2a150:s -> n0x558c8ee2a180:c  
+  n0x558c8ee2a180 [label="0"]
+  n0x558c8ee296d0:s -> n0x558c8ee29700:c  
+  n0x558c8ee29700 [label="l"]
+  n0x558c8ee29700:s -> n0x558c8ee29730:c  
+  n0x558c8ee29730 [label="l"]
+  n0x558c8ee29730:s -> n0x558c8ee29760:c  
+  n0x558c8ee29760 [label="e"]
+  n0x558c8ee29760:s -> n0x558c8ee29790:c  
+  n0x558c8ee29790 [label="0"]
+
+}
