@@ -7,13 +7,13 @@ L’objectif du DM consiste à concevoir une mini application permettant à l’
 
 
 # Guide
-
+dans correcteur/
 |   | Commande  |
 |:---|---:|
-|Installer | make install
-|Lancer l’exemple 1 (texte_0 / dico_1)| make exemple1
-|Lancer l’exemple 2 (texte_1 / dico_2)| make exemple2
-|Désinstaller | make uninstall
+|Installer | `make install`
+|Lancer l’exemple 1 (texte_0 / dico_1)| `make exemple1`
+|Lancer l’exemple 2 (texte_1 / dico_2)| `make exemple2`
+|Désinstaller | `make uninstall`
 
 Produire la représentation graphique du dictionnaire (ex.):
 ```sh
